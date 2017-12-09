@@ -28,7 +28,7 @@ const students = [
 ]
 
 let student_details = students.map((student, index, students) => {
-  //  console.log(student.name);
+  console.log(student.name);
 })
 
 let under_age = students.filter((student)=>{
