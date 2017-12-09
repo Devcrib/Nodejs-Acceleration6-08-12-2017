@@ -1,23 +1,28 @@
 const students = [
     {
         "name": "Gbenga akinnagbe",
-        "age": "30",
+        "age": 30,
         "Matric-number": 5000
     },
     {
         "name": "Adeniyi Gbenga",
-        "age": "25",
+        "age": 25,
         "Matric-number": 1000
     },
     {
         "name": "Trios slimet",
-        "age": "26",
+        "age": 26,
         "Matric-number": 150
     },
     {
         "name": "Tunmise yung",
-        "age": "22",
+        "age": 22,
         "Matric-number": 5000
+    },
+    {
+        'name': "Kemisola Fasae",
+        "age": 24,
+        "Matric-number": 1234
     }
 
 ]
