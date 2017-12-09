@@ -2,23 +2,24 @@ const students = [
     {
         "name": "Gbenga akinnagbe",
         "age": "30",
-        "Mn": 5000
+        "Matric-number": 5000
     },
     {
         "name": "Adeniyi Gbenga",
         "age": "25",
-        "Mn": 1000
+        "Matric-number": 1000
     },
     {
         "name": "Trios slimet",
         "age": "26",
-        "Mn": 150
+        "Matric-number": 150
     },
     {
         "name": "Tunmise yung",
         "age": "22",
-        "Mn": 5000
+        "Matric-number": 5000
     }
+
 ]
 
 let student_details = students.map((student, index, students) => {
