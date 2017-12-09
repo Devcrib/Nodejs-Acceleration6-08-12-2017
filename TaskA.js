@@ -9,4 +9,4 @@ let f = (Apple) => {
     }
 }
 
-console.log('Basket: ' + f(' Apple') + (' Grape') + (' Pine-Apple') + (' Banana') + (' Groundnut') + (' Avacado') + (' Banana') + (' Groundnut'));
+console.log('Basket: ' + f(' Apple') + (' Apricot') + (' Avacado') + (' Banana') );
